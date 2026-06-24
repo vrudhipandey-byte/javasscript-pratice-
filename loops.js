@@ -4,7 +4,7 @@
 // console.log("loop has ended")
 
 
-//calculate suum of 1 to n 
+// calculate suum of 1 to n 
 // let sum = 0;
 // let  n=90
 // for(let i =1; i<90; i++){

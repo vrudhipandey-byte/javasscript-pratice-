@@ -32,13 +32,13 @@
 // console.log(str.slice(3));
 
 
-let str1="khushi";
-let str2="pandey";
-  let result =str1.concat(str2);
-console.log(result);
+// let str1="khushi";
+// let str2="pandey";
+//   let result =str1.concat(str2);
+// console.log(result);
    
-let str = "pandey";
-console.log(str.replace("p","g"))
+// let str = "pandey";
+// console.log(str.replace("p","g"))
 
 
 
