@@ -20,7 +20,7 @@ console.log(nameee)//method (we can use negative value )
 
 const stringname = '    cat   '
 console.log(stringname)
-console.log(stringname.trim())// its remove the spacee 
+console.log(stringname.trim())// method
 
 const url ="https://hitesh.com/hitesh%20choudhary"
 console.log(url.replace('%20','-'))//method
